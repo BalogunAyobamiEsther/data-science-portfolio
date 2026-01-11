@@ -1,6 +1,6 @@
 # My Data Science Portfolio
 
-Welcome to my data science learning journey with TechCrush!  
+Welcome to my data science learning journey! 
 This repository contains all the projects, notebooks, and analyses I’ve worked on.
 
 ## 📊 Projects
