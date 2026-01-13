@@ -65,6 +65,7 @@ Explores how mathematics enhances problem-solving and innovation across various 
 A Medium article breaking down data analysis and machine learning concepts into clear, step-by-step explanations for non-technical audiences.
 
 **Project Documentation Samples**
+
 All projects in this repository include **well-structured Markdown explanations**, documenting problem statements, methodologies, analysis workflows, and insights.
 
 
