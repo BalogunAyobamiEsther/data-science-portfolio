@@ -38,7 +38,7 @@ Here is the link: [Excel Projects](https://github.com/BalogunAyobamiEsther/Excel
 ## PowerBI Project
 **Description:**
 Comparative analysis of a Global Electronics Retail dataset using Excel and Power BI. Explored cleaning, modeling, DAX, and visualization, created interactive dashboards, and derived strategic retail insights. Showcases evolution from foundational Excel skills to scalable Power BI business intelligence.
-Here is the link: [PowerBI Project](https://github.com/BalogunAyobamiEsther/PowerBI-Projects))
+Here is the link: [PowerBI Project](https://github.com/BalogunAyobamiEsther/PowerBI-Projects)
 
 ## SQL Projects
 
