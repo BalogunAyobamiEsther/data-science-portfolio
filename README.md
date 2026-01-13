@@ -11,6 +11,35 @@ This repository contains all the projects, notebooks, and analyses I’ve worked
 - [Heart Disease Prediction](https://github.com/BalogunAyobamiEsther/Group4-Heart-Disease-Prediction-Project/blob/main/GROUP_4(DATA_DOMINATORS_PROJECT)%20(2).ipynb)
 
 
+# ✍️ Technical Writing Portfolio
+
+Here are my technical writing and documentation projects, including Medium articles and project documentation:
+
+### 1. Mathematics & Problem Solving Article
+**Title:** [Mathematics: Beyond Calculation — Unlocking the Power of Problem Solving](https://medium.com/@balogunestheray/mathematics-beyond-calculation-unlocking-the-power-of-problem-solving-and-innovation-across-33d209a33054)  
+Explores how mathematics enhances problem-solving and innovation across various fields, written in an accessible and beginner-friendly style.
+
+### 2. Explaining Machine Learning Workflows
+**Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab)  
+A Medium article breaking down data analysis and machine learning concepts into clear, step-by-step explanations for non-technical audiences.
+
+**Project Documentation Samples**
+
+All projects in this repository include **well-structured Markdown explanations**, documenting problem statements, methodologies, analysis workflows, and insights.
+
+# Data Analysis Projects
+
+## Excel Projects
+**Description:**
+Healthcare Analytics & Product Sales Data Analysis using Excel. Built interactive dashboards with Power Query, Power Pivot, Pivot Charts, and DAX to analyze hospital utilization, insurance coverage, sales trends, customer locations, delivery times, and Online vs In-Store AOV for data-driven insights.
+Here is the link: [Excel Projects](https://github.com/BalogunAyobamiEsther/Excel-Project)
+
+
+## PowerBI Project
+**Description:**
+Comparative analysis of a Global Electronics Retail dataset using Excel and Power BI. Explored cleaning, modeling, DAX, and visualization, created interactive dashboards, and derived strategic retail insights. Showcases evolution from foundational Excel skills to scalable Power BI business intelligence.
+Here is the link: [PowerBI Project](https://github.com/BalogunAyobamiEsther/PowerBI-Projects))
+
 ## SQL Projects
 
 Here are my SQL projects I’ve completed as part of my database and data analysis practice. Each project includes database design, queries, and results.
@@ -51,23 +80,6 @@ Here is the link: [Teen Phone Usage ](https://github.com/BalogunAyobamiEsther/-T
 - SQL
 - Data Cleaning and Visualization
 - Machine Learning Basics
-
-
-## ✍️ Technical Writing Portfolio
-
-Here are my technical writing and documentation projects, including Medium articles and project documentation:
-
-### 1. Mathematics & Problem Solving Article
-**Title:** [Mathematics: Beyond Calculation — Unlocking the Power of Problem Solving](https://medium.com/@balogunestheray/mathematics-beyond-calculation-unlocking-the-power-of-problem-solving-and-innovation-across-33d209a33054)  
-Explores how mathematics enhances problem-solving and innovation across various fields, written in an accessible and beginner-friendly style.
-
-### 2. Explaining Machine Learning Workflows
-**Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab)  
-A Medium article breaking down data analysis and machine learning concepts into clear, step-by-step explanations for non-technical audiences.
-
-**Project Documentation Samples**
-
-All projects in this repository include **well-structured Markdown explanations**, documenting problem statements, methodologies, analysis workflows, and insights.
 
 
 
