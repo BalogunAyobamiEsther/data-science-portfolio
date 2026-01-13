@@ -55,11 +55,11 @@ Here is the link: [Teen Phone Usage ](https://github.com/BalogunAyobamiEsther/-T
 Here are my technical writing and documentation projects, including Medium articles and project documentation:
 
 ### 1. Mathematics & Problem Solving Article
-**Title:** [Mathematics: Beyond Calculation — Unlocking the Power of Problem Solving]([https://medium.com/@balogunestheray/mathematics-beyond-calculation-unlocking-the-power-of-problem-solving-and-innovation-across-33d209a33054])  
+**Title:** [Mathematics: Beyond Calculation — Unlocking the Power of Problem Solving](https://medium.com/@balogunestheray/mathematics-beyond-calculation-unlocking-the-power-of-problem-solving-and-innovation-across-33d209a33054)  
 Explores how mathematics enhances problem-solving and innovation across various fields, written in an accessible and beginner-friendly style.
 
 ### 2. Explaining Machine Learning Workflows
-**Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey.]([https://medium.com/@yourmediumusername/article-link](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab))  
+**Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey.](https://medium.com/@yourmediumusername/article-link](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab)  
 A Medium article breaking down data analysis and machine learning concepts into clear, step-by-step explanations for non-technical audiences.
 
 ### 3. Project Documentation Samples
