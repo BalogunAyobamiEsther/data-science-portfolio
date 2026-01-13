@@ -48,6 +48,8 @@ Here is the link: [Teen Phone Usage ](https://github.com/BalogunAyobamiEsther/-T
 - Python (Pandas, NumPy, Matplotlib)
 - Scikit-learn
 - SQL
+- Data Cleaning and Visualization
+- Machine Learning Basics
 
 
 ## ✍️ Technical Writing Portfolio
@@ -67,5 +69,4 @@ A Medium article breaking down data analysis and machine learning concepts into 
 
 
 
-- Data Cleaning and Visualization
-- Machine Learning Basics
+
