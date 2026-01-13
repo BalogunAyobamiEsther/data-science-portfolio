@@ -64,7 +64,7 @@ Explores how mathematics enhances problem-solving and innovation across various 
 **Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab)  
 A Medium article breaking down data analysis and machine learning concepts into clear, step-by-step explanations for non-technical audiences.
 
-### 3. Project Documentation Samples
+**Project Documentation Samples**
 All projects in this repository include **well-structured Markdown explanations**, documenting problem statements, methodologies, analysis workflows, and insights.
 
 
