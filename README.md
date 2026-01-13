@@ -59,7 +59,7 @@ Here are my technical writing and documentation projects, including Medium artic
 Explores how mathematics enhances problem-solving and innovation across various fields, written in an accessible and beginner-friendly style.
 
 ### 2. Explaining Machine Learning Workflows
-**Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey.](https://medium.com/@yourmediumusername/article-link](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab)  
+**Title:** [Predicting Heart Disease Using Machine Learning: A Data-Science Journey](https://medium.com/@balogunestheray/predicting-heart-disease-using-machine-learning-a-data-science-journey-a7913fa3adab)  
 A Medium article breaking down data analysis and machine learning concepts into clear, step-by-step explanations for non-technical audiences.
 
 ### 3. Project Documentation Samples
