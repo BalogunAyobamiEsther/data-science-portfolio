@@ -78,6 +78,8 @@ Here is the link: [Teen Phone Usage ](https://github.com/BalogunAyobamiEsther/-T
 - Python (Pandas, NumPy, Matplotlib)
 - Scikit-learn
 - SQL
+- Excel
+- PowerBI
 - Data Cleaning and Visualization
 - Machine Learning Basics
 
