@@ -1,17 +1,17 @@
 # 🌐 **Balogun Ayobami Esther**  
-### *Data Scientist | AI/ML Engineer | Machine Learning Practitioner*
+### *Data Scientist & AI/ML Engineer | Building End-to-End Machine Learning Solutions*
 
 ---
 
 ## 🧍‍♀️ **About Me**
 
-I’m **Balogun Ayobami Esther**, a Data Scientist expanding into **AI/ML Engineering**, with a strong foundation in mathematics and a growing expertise in building intelligent machine learning systems.  
+I am a Mathematics graduate from Obafemi Awolowo University transitioning into Data Science and AI/ML Engineering.
 
-I hold a degree in **Mathematics** from **Obafemi Awolowo University, Ile‑Ife**, where I developed the analytical and problem‑solving mindset that now shapes my approach to data science.
+I build machine learning systems that transform data into actionable insights and deployable applications.
 
-I specialize in developing end‑to‑end machine learning solutions — from data preprocessing and exploratory analysis to model training, optimization, and deployment. My interests span supervised and unsupervised learning, gradient boosting algorithms, and practical model deployment using Streamlit.
+My experience includes predictive modeling, clustering, feature engineering, dashboard development, and ML deployment using Streamlit.
 
-I enjoy transforming raw data into intelligent, scalable, and user‑friendly systems.
+I am passionate about solving real-world problems with data and continuously expanding my expertise in machine learning and generative AI.
 
 ---
 
@@ -19,7 +19,7 @@ I enjoy transforming raw data into intelligent, scalable, and user‑friendly sy
 
 ### **Machine Learning & AI**
 - Supervised Learning (Classification & Regression)  
-- Unsupervised Learning (Clustering, DBSCAN)  
+- Unsupervised Learning (Clustering)  
 - Model Deployment (Streamlit)
 
 ### **ML Frameworks**
@@ -107,6 +107,35 @@ A foundational notebook demonstrating Python basics such as loops, functions, an
 ## **ATM Machine Simulation (Python)**  
 A simple ATM system built using Python functions and control flow.  
 👉 [View Project](https://github.com/BalogunAyobamiEsther/ATM_MACHINE/blob/main/Balogun_Ayobami_Esther_Task_2.ipynb)
+
+---
+
+# 🤖 Generative AI & NLP Skills
+
+I am actively expanding into Generative AI and intelligent AI systems with practical exposure to:
+
+- Prompt Engineering
+- NLP preprocessing techniques
+- Sentiment Analysis
+- Text normalization
+- Stopword removal
+- AI workflow automation using n8n
+- AI-assisted productivity workflows
+- LLM application concepts
+
+I am continuously learning modern AI technologies and building toward advanced AI engineering and deployment skills.
+
+---
+
+# 📚 Currently Learning
+
+- Generative AI
+- Large Language Models (LLMs)
+- NLP Applications
+- AI Agents & Automation
+- Advanced Prompt Engineering
+- Hugging Face Ecosystem
+- AI Workflow Orchestration
 
 ---
 
