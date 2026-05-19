@@ -58,6 +58,15 @@ I enjoy transforming raw data into intelligent, scalable, and user‑friendly sy
 
 # 🧠 **Machine Learning & AI Projects**
 
+## **ChurnGuard – Telco Customer Churn Prediction App**
+
+An end-to-end machine learning web application built with Streamlit for predicting customer churn in the telecommunications industry. The app supports both single-customer and bulk CSV predictions, provides churn risk insights, highlights key churn drivers, and generates retention recommendations linked to financial inclusion.
+Tech stack: Python, Streamlit, scikit-learn, pandas, numpy, XGBoost, GridSearchCV, Logistic Regression
+👉 [View Project](https://github.com/BalogunAyobamiEsther/churn-guard)
+
+---
+
+
 ## **Heart Disease Prediction (Machine Learning)**  
 A complete ML pipeline covering data preprocessing, exploratory analysis, feature engineering, model training, and evaluation.  
 **Tech stack:** scikit‑learn, pandas, numpy, matplotlib, seaborn  
