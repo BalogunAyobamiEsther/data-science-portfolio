@@ -1,5 +1,5 @@
 # 🌐 **Balogun Ayobami Esther**  
-### *Data Scientist & AI/ML Engineer Enthusiast | Building End-to-End Machine Learning Solutions*
+### *Data Scientist & AI/ML Engineer | Building End-to-End Machine Learning Solutions*
 
 ---
 
